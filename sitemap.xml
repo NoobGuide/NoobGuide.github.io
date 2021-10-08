@@ -2,27 +2,57 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://NoobGuide.github.io/</loc>
-         <lastmod>2021-10-05</lastmod>
+         <lastmod>2021-10-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://NoobGuide.github.io/homebrew/hbtls/</loc>
+         <lastmod>2021-10-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://NoobGuide.github.io/homebrew/overlay/</loc>
+         <lastmod>2021-10-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://NoobGuide.github.io/homebrew/save/</loc>
+         <lastmod>2021-10-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://NoobGuide.github.io/homebrew/theme/</loc>
+         <lastmod>2021-10-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://NoobGuide.github.io/homebrew/upfw/</loc>
+         <lastmod>2021-10-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://NoobGuide.github.io/mod-atmos/1-online-check/</loc>
-         <lastmod>2021-10-05</lastmod>
+         <lastmod>2021-10-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://NoobGuide.github.io/mod-atmos/2-nand-backup-restore/</loc>
-         <lastmod>2021-10-05</lastmod>
+         <lastmod>2021-10-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://NoobGuide.github.io/mod-atmos/3-emunand/</loc>
-         <lastmod>2021-10-05</lastmod>
+         <lastmod>2021-10-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://NoobGuide.github.io/mod-atmos/4-atmos/</loc>
-         <lastmod>2021-10-05</lastmod>
+         <lastmod>2021-10-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://NoobGuide.github.io/online/lanplay/</loc>
+         <lastmod>2021-10-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
